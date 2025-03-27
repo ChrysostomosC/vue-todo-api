@@ -1,7 +1,6 @@
 # vue-todo-api
 
-Vue.js To-Do App with API Integration
-A simple yet powerful To-Do application built with Vue.js and a REST API, allowing users to add, update, delete, and mark tasks as done from both the frontend UI and directly through the API.
+A simple yet powerful To-Do application built with Vue.js and a REST API, allowing users to add, update, delete, and mark tasks as done from both the frontend UI and directly through the API. Connected to SQL database.
 
 ## Project setup
 ```
